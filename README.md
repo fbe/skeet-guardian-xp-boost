@@ -3,6 +3,7 @@ A scuffed XP boost LUA that will get you 7xp per game (on reduced). Each game wi
 We will play the first guardian mission over and over again.
 
 **Possible weekly gains:**
+
 2m games: 5040xp daily (24 hours of boosting and on reduced)
 3m games: 3360xp daily (24 hours of boosting and on reduced)
 4m games: 2520xp daily (24 hours of boosting and on reduced)
